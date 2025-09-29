@@ -1,0 +1,5 @@
+PORT=8000
+MONGO_URI=
+GEMINI_API_KEY=
+JWT_SECRET=safkjoewijfioj 
+    
