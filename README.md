@@ -6,8 +6,6 @@ Tech
 React, Node, Express, MongoDB, Tailwind, and Gemini API for Q&A and explanations.
 
 Clone
-GitHub CLI: gh repo clone Pranay25o/Interview-preparation
-
 SSH: git clone git@github.com:Pranay25o/Interview-preparation.git
 
 Setup
