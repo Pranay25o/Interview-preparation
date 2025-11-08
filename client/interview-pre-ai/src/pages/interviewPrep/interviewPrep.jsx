@@ -52,11 +52,11 @@ const InterviewPrep = () => {
       setExplanation(null);
       setIsLoading(true);
       setOpenLeanMoreDrawer(true);
-
+      console.log("hii");
       const response = await axiosInstance.post(API_PATHS.AI.GENERATE_EXPLANATION, {
         question,
       });
-
+      console.log(response.data);
       if (response.data) {
         setExplanation(response.data);
       }
